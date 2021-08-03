@@ -23,4 +23,3 @@ This PathFinder does not implement diagonals, a feature to be updated later.
     * LOAD map from text file
     
 
-(FIRST EVER PROGRAM)
