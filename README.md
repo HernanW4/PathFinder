@@ -1,4 +1,4 @@
-# PathFinder
+# PathFinder #
 PathFinder using A star method. 
 Is a simple PathFinder to show the ways algorithms work.
 
